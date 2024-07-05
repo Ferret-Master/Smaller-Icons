@@ -3,7 +3,7 @@
     "context": "client",
     "identifier": "com.pa.ferretmaster.smaller-icons",
     "display_name": "Smaller Icons",
-    "description": "Decreases icon size by 25%.",
+    "description": "Decreases icon size by 25%, useful for 4k monitors",
     "author": "Ferretmaster",
     "version": "1.0",
     "build": "120799",
