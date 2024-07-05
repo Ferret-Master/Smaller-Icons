@@ -16,7 +16,7 @@
             "coui://ui/mods/com.pa.smaller-icons/icon_atlas.js"
         ]
     },
-    "icon": "https://raw.githubusercontent.com/Ferret-Master/Smaller-Icons/main/smaller_icons_icon.PNG",
+    "icon": "https://raw.githubusercontent.com/Ferret-Master/Smaller-Icons/main/smaller_icons_icon.png",
     "priority": 100,
     "category": ["titans","classic", "in-game","ui"]
  
